@@ -1,5 +1,3 @@
-# Write your code here :-)
-
 WIFI_SSID = "" # Wifi SSid here
 WIFI_PASS = "" # Wifi password here
 
