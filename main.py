@@ -1,4 +1,3 @@
-# Write your code here :-)
 import socket
 from machine import Pin
 import time
